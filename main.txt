@@ -1,0 +1,7 @@
+            <div class="center">
+                <div class="left">
+                    <svg height="100%" stroke="#bac736" stroke-width="2" class="text-line"><text x="50%" dominant-baseline="middle" text-anchor="middle" y="50%">#realfood</text></svg>
+                    <p>Патаму</p>
+                </div>
+                <img src="img/pfptransparent.png" alt="pfp">
+            </div>
